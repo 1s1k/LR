@@ -3,9 +3,4 @@
 > **ONE** Shot; **ONE** Kill
 
 
-Sniper
-
-markssman
-
-
-dc addon/personal
+A marksmanship aid 
