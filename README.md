@@ -6,8 +6,6 @@
 A marksmanship aid 
 
 
-datbases
-
-script
-
-app
++ datbases
++ script
++ apps
